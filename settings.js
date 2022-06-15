@@ -18,21 +18,21 @@ global.autoread = false // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = "Kurumi Bots" //namabot kalian
-global.ownername= "Zodress Opbr" //nama kalian
+global.botname = "AbiBotz" //namabot kalian
+global.ownername= "AbiStore" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com" //bebas asal jan hapus
 global.github = "https://zeeone-ofc.github.io/" //bebas
-global.email = "kurumibots@gmail.com" //bebas
+global.email = "abibotz@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "6288973218166" // nomor wa kalian
-global.ownernomerr = "+6288973218166" //nmr wa kalian
+global.ownernomer = "6285850132473" // nomor wa kalian
+global.ownernomerr = "+6285850132473" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6288973218166","6285817421330"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Zodress Opbr' //sticker wm ubah
-global.author = 'Di Buat Oleh Kurumi Bots' //sticker wm ganti nama kalian
+global.owner = ["6285850132473","6285817421330"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© AbiStore' //sticker wm ubah
+global.author = 'Di Buat Oleh AbiBotz' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
